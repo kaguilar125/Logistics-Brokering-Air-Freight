@@ -1,5 +1,5 @@
 body {
-    background-color: #000;
+    background-color: #457B9D;
     color: #fff;
   }
   
@@ -37,7 +37,7 @@ body {
   }
   
   .slider img {
-    max-width: 100%;
+    max-width: 200%;
     height: auto;
     border-radius: 10px;
   }
